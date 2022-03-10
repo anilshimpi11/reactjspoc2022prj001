@@ -1,0 +1,22 @@
+{
+  "name": "reactjavascriptproj01",
+  "version": "1.0.0",
+  "description": "React Js application POC 2022 APP01",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anilshimpi11/reactjspoc2022prj001.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Anil Shimpi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anilshimpi11/reactjspoc2022prj001/issues"
+  },
+  "homepage": "https://github.com/anilshimpi11/reactjspoc2022prj001#readme"
+}
